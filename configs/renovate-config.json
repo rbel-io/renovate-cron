@@ -1,0 +1,6 @@
+{
+  "description": "Default preset",
+  "extends": [
+    "config:base"
+  ]
+}
