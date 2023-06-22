@@ -20,3 +20,4 @@ jobs:
           LOG_LEVEL: 'debug'
           RENOVATE_AUTODISCOVER: false
           RENOVATE_REPOSITORIES: "renovate-test-project2"
+          RENOVATE_PLATFORM: "github"
