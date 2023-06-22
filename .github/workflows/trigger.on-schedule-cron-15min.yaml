@@ -19,5 +19,5 @@ jobs:
         env:
           LOG_LEVEL: 'debug'
           RENOVATE_AUTODISCOVER: false
-          RENOVATE_REPOSITORIES: "renovate-test-project2"
+          RENOVATE_REPOSITORIES: "rbel-io/renovate-test-project2"
           RENOVATE_PLATFORM: "github"
