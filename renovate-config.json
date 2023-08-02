@@ -4,5 +4,6 @@
    "onboarding": false,
    "platform": "github",
    "forkProcessing": "disabled",
-   "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2"]
+   "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2"],
+   "labels": [ "dependencies"]
 }
