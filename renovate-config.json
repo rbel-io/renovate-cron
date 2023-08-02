@@ -6,5 +6,5 @@
    "onboarding": false,
    "platform": "github",
    "forkProcessing": "disabled",
-   "repositories": ["rbel-io/renovate-test-project"]
+   "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2"]
 }
