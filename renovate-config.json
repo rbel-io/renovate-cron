@@ -4,6 +4,7 @@
    "onboarding": false,
    "platform": "github",
    "forkProcessing": "disabled",
+   "prHourlyLimit": 10,
    "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2"],
    "labels": ["dependencies"]
 }
