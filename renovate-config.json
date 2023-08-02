@@ -5,6 +5,6 @@
    "platform": "github",
    "forkProcessing": "disabled",
    "prHourlyLimit": 10,
-   "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2"],
+   "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2", "rbel-io/renovate-cron"],
    "labels": ["dependencies"]
 }
