@@ -1,6 +1,5 @@
 {
    "autodiscover": false,
-   "dryRun": "null",
    "username": "renovate-release",
    "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
    "onboarding": false,
