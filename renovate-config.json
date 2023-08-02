@@ -6,5 +6,6 @@
    "forkProcessing": "disabled",
    "prHourlyLimit": 10,
    "repositories": ["rbel-io/renovate-test-project", "rbel-io/renovate-test-project2", "rbel-io/renovate-cron"],
+   "timezone": "Europe/Amsterdam",
    "labels": ["dependencies"]
 }
