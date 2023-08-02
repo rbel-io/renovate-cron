@@ -1,0 +1,12 @@
+{
+  "autodiscover": false,
+  "dryRun": "full",
+  "username": "renovate-release",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "onboarding": false,
+  "platform": "github",
+  "includeForks": false,
+  "repositories": [
+    "rbel-io/renovate-test-project"
+  ]
+}
