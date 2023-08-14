@@ -9,6 +9,6 @@
    "timezone": "Europe/Amsterdam",
    "labels": ["dependencies"],
    "constraints": {
-     "php-src": "8.2.8"
+     "php/php-src": "8.2.8"
    }
 }
