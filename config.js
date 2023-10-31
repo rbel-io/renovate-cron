@@ -5,7 +5,7 @@ module.exports = {
     platform: "github",
     forkProcessing: "disabled",
     prHourlyLimit: 0,
-    repositories: ['rbel-io/renovate-test-project2'],
+    repositories: ['rbel-io/renovate-test-project','rbel-io/renovate-test-project2'],
     timezone: "Europe/Amsterdam"
 };
 
