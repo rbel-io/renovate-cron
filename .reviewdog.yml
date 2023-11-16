@@ -1,0 +1,7 @@
+runner:
+    markdownlinter:
+      cmd: markdownlint
+      format: diff
+      name: markdownlint
+      diff: "git diff master"
+      
