@@ -6,6 +6,14 @@ module.exports = {
     forkProcessing: "disabled",
     prHourlyLimit: 0,
     repositories: ['rbel-io/renovate-test-project2'],
-    timezone: "Europe/Amsterdam"
+    timezone: "Europe/Amsterdam",
+    // Testing no majors except github actions
+    major: false,
+    packageRules: [
+        {
+            matchManagers: ["github-actions"],
+            major: true
+        }
+    ]
 };
 
